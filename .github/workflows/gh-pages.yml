@@ -27,6 +27,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: <USERNAME>/<USERNAME>.github.io  # 替换成上文所创建的个人主页仓库
+          external_repository: Corsair-cxs/Corsair-cxs.github.io  # 替换成上文所创建的个人主页仓库
           publish_branch: main
           publish_dir: ./public
