@@ -45,7 +45,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  image = "img/watch.jfif" # Logo image. Path relative to "static"
   title = "Mainroad" # Logo title, otherwise will use site title
   subtitle = "Just another site" # Logo subtitle
 
@@ -67,12 +67,16 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets.social]
   # Enable parts of social widget
   github = "username"
-  email = "example@example.com"
+  email = "1494089474@qq.com"
 
 # Custom social links
 [[Params.widgets.social.custom]]
-  title = "My Home Page"
+  title = "My GitBlog Page"
   url = "https://corsair-cxs.github.io/"
+
+[[Params.widgets.social.custom]]
+  title = "My CSDN Page"
+  url = "https://blog.csdn.net/cxs5534"
 
 [Params.widgets.search]
   url = "https://google.com/search"
