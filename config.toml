@@ -43,3 +43,14 @@ theme = "Mainroad"
   gitlab = "username"
   bitbucket = "username"
   email = "example@example.com"
+
+# Custom social links
+[[Params.widgets.social.custom]]
+  title = "My Home Page"
+  url = "https://example.com"
+
+[Params.widgets.search]
+  url = "https://google.com/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = ""
