@@ -2,6 +2,13 @@ baseURL = 'https://corsair-cxs.github.io/'
 languageCode = 'en-us'
 title = '陈显森的博客'
 theme = "Mainroad"
+disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author] # Used in authorbox
+  name = "John Doe"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/avatar.png"
 
 [Params]
   description = "John Doe's Personal blog about everything" # Site description. Used in meta description
