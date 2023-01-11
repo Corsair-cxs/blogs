@@ -11,3 +11,8 @@ theme = "Mainroad"
   fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
   # Secondary font-family set responsible for pre, code, kbd, and samp tags font
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+
+[Params.logo]
+  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  title = "Mainroad" # Logo title, otherwise will use site title
+  subtitle = "Just another site" # Logo subtitle
