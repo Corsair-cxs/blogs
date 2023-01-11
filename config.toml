@@ -1,6 +1,6 @@
 baseURL = 'https://corsair-cxs.github.io/'
 languageCode = 'en-us'
-title = '陈显森的博客'
+title = '陈显森的gitblog'
 theme = "Mainroad"
 paginate = "10" # Number of posts per page
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
@@ -46,8 +46,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.logo]
   image = "img/watch.jfif" # Logo image. Path relative to "static"
-  title = "Mainroad" # Logo title, otherwise will use site title
-  subtitle = "Just another site" # Logo subtitle
+  title = "陈显森的博客" # Logo title, otherwise will use site title
+  subtitle = "正心诚意，格物致知" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
