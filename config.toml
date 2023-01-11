@@ -8,13 +8,13 @@ disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  name = "Corsair-cxs"
+  bio = "Corsair-cxs's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/watch.jfif"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
-  copyright = "John Doe" # Footer copyright holder, otherwise will use site title
+  description = "Corsair-cxs's Personal blog about everything" # Site description. Used in meta description
+  copyright = "Corsair-cxs" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -23,7 +23,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
-  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["post", "blog", 'docs', "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
   mathjax = true # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
@@ -35,7 +35,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   # DEPRECATED PARAMS
   subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
   highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
-
 [Params.style.vars]
   highlightColor = "#111111" # Override highlight color
 
