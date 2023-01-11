@@ -66,16 +66,16 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.widgets.social]
   # Enable parts of social widget
-  github = "username"
+  github = "Corsair-cxs"
   email = "1494089474@qq.com"
 
 # Custom social links
 [[Params.widgets.social.custom]]
-  title = "My GitBlog Page"
+  title = "GitBlog"
   url = "https://corsair-cxs.github.io/"
 
 [[Params.widgets.social.custom]]
-  title = "My CSDN Page"
+  title = "CSDN"
   url = "https://blog.csdn.net/cxs5534"
 
 [Params.widgets.search]
