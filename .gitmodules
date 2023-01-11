@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Corsair-cxs/Corsair-cxs.github.io.git
+	branch = main
