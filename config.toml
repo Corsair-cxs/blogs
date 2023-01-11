@@ -79,7 +79,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   url = "https://blog.csdn.net/cxs5534"
 
 [Params.widgets.search]
-  url = "https://google.com/search"
+  url = "https://baidu.com/search"
   [Params.widgets.search.input]
     name = "sitesearch"
     pre = ""
