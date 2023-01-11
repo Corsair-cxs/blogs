@@ -1,5 +1,5 @@
 ---
-title: Customization
+title: Blogs
 description: Describes common Mainroad theme configuration parameters that can be adjusted via config file or via Front
   Matter section.
 lead: Describes common Mainroad theme configuration parameters that can be adjusted via config file or via Front Matter
@@ -16,13 +16,13 @@ weight: 2
 menu: main
 ---
 
-Customization page describes common Mainroad configuration parameters which can be specified via configuration file or
+Blogs page describes common Mainroad configuration parameters which can be specified via configuration file or
 via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,
 and more.
 
 <!--more-->
 
-This section will mainly cover customization settings that are unique to this theme. If something is not covered here,
+This section will mainly cover Blogs settings that are unique to this theme. If something is not covered here,
 there's a good chance it is covered somewhere in [Hugo docs](https://gohugo.io/documentation/).
 
 ### Logo
@@ -334,4 +334,4 @@ It is possible to disable Google Fonts and use system font stack instead.
       fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
     ```
 
-[Edit this page on GitHub](https://github.com/vimux/mainroad/blob/master/exampleSite/content/docs/customization.md)
+[Edit this page on GitHub](https://github.com/vimux/mainroad/blob/master/exampleSite/content/docs/Blogs.md)

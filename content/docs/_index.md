@@ -1,4 +1,4 @@
 ---
 title: Documentation
-description: Mainroad theme documentation, including getting started, customization guides, and FAQ.
+description: Mainroad theme documentation, including Main Page, Blogs guides, and FAQ.
 ---

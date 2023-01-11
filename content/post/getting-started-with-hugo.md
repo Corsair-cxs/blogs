@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Hugo
+title: Main Page with Hugo
 date: 2014-04-02
 tags:
   - "go"

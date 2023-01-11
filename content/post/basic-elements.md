@@ -7,10 +7,10 @@ categories:
 tags:
   - "HTML"
   - "CSS"
-  - "Basic Elements"
+  - "MISC"
 menu:
   main:
-    name: Basic Elements
+    name: MISC
     weight: 4
 ---
 
