@@ -1,7 +1,8 @@
 baseURL = 'https://corsair-cxs.github.io/'
 languageCode = 'en-us'
-title = '陈显森的gitblog'
+title = '陈显森的GitBlog'
 theme = "Mainroad"
+icon = 'public\img\watch.jfif'
 paginate = "10" # Number of posts per page
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
@@ -79,7 +80,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   url = "https://blog.csdn.net/cxs5534"
 
 [Params.widgets.search]
-  url = "https://baidu.com/search"
+  url = "https://google.com/search"
   [Params.widgets.search.input]
     name = "sitesearch"
     pre = ""
