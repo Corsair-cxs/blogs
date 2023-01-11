@@ -1,4 +1,4 @@
 baseURL = 'https://corsair-cxs.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "purehugo"
+title = '陈显森的博客'
+theme = "Mainroad"
