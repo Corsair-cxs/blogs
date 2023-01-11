@@ -40,7 +40,7 @@ Hugo is not required (but applicable).
 
 **Configuration:**
 
-* See [All Configuration Settings](https://gohugo.io/getting-started/configuration/#all-configuration-settings)
+* See [All Configuration Settings](https://gohugo.io/main-page/configuration/#all-configuration-settings)
 for the full list of Hugo-defined variables with their default values.
 * See [Mainroad config.toml example](https://github.com/Vimux/Mainroad#configtoml-example) for the full list of
 Mainroad-specific variables.

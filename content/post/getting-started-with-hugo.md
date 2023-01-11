@@ -18,7 +18,7 @@ appropriate version for your OS and architecture.
 
 Save it somewhere specific as we will be using it in the next step.
 
-More complete instructions are available at [Install Hugo](https://gohugo.io/getting-started/installing/)
+More complete instructions are available at [Install Hugo](https://gohugo.io/main-page/installing/)
 
 ## Step 2. Build the Docs
 

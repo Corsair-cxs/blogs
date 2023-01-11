@@ -38,4 +38,4 @@ configurability. Hugo takes a directory with content and templates and renders t
 amazing speed and flexibility, Hugo makes building websites fun again.
 
 Learn more on [GitHub](https://github.com/gohugoio/hugo). Complete documentation is available at
-[Hugo Documentation](https://gohugo.io/getting-started/).
+[Hugo Documentation](https://gohugo.io/main-page/).

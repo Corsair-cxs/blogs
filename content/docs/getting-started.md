@@ -22,9 +22,9 @@ with the [Hugo](https://gohugo.io/) static site generator.
 ## Installation
 
 Before installing the **Mainroad** theme, make sure that you've
-[installed **Hugo** (version 0.48 or later)](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo) and
-[created a new site](https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site). To learn how to install
-Hugo, visit [Hugo Documentation](https://gohugo.io/getting-started/installing/).
+[installed **Hugo** (version 0.48 or later)](https://gohugo.io/main-page/quick-start/#step-1-install-hugo) and
+[created a new site](https://gohugo.io/main-page/quick-start/#step-2-create-a-new-site). To learn how to install
+Hugo, visit [Hugo Documentation](https://gohugo.io/main-page/installing/).
 
 There are a few ways to install a theme in Hugo. This can be done via git submodule, git clone, Hugo modules, or
 by downloading the archive and manually copying the files. Three installation options are described below.
@@ -83,4 +83,4 @@ sure to edit the `theme` param inside the config file and check that the theme w
 For information about common Blogs settings, see [Blogs page]({{< relref "/docs/customization.md" >}} "Mainroad theme Blogs").
 To view our example configuration, visit [demo config](https://github.com/vimux/mainroad/blob/master/exampleSite/config.toml).
 
-[Edit this page on GitHub](https://github.com/vimux/mainroad/blob/master/exampleSite/content/docs/getting-started.md)
+[Edit this page on GitHub](https://github.com/vimux/mainroad/blob/master/exampleSite/content/docs/main-page.md)
